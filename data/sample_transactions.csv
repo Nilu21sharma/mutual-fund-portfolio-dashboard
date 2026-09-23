@@ -1,0 +1,5 @@
+TxnDate,SchemeCode,TxnType,Amount,NAV,Units,Notes
+2024-01-05,122639,BUY,10000,,,Lump sum
+2024-01-26,122639,BUY,5000,,,SIP on a market holiday - uses next day's NAV
+2024-02-05,122639,BUY,5000,,,SIP
+2025-06-10,122639,SELL,3000,,,Partial redemption

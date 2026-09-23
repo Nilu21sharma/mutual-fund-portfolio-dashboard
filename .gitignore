@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# ETL output
+logs/
+data/raw/
+
+# Your real transactions stay on your PC only
+data/my_transactions.csv
+
+# Power BI temp/lock files
+*.pbix.bak
+~$*
